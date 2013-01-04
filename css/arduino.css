@@ -1,0 +1,37 @@
+.arduino-comment{
+  color:gray;
+}
+
+.arduino-text{
+  color:black;
+}
+.arduino-hilighted-background{
+  background-color:#ffd700;
+}
+.arduino-syntax-highlighting1 {
+  color:#e57500;
+}
+
+.arduino-syntax-highlighting2 {
+  color:#2e7aa9;
+}
+
+.arduino-error-highlighting{
+  color:#ffd700;
+}
+.arduino-errorbar{
+  color:#fe5300;
+}
+
+.arduino-tab-indent {
+  padding-left: 18px;
+}
+
+.archive-link {
+  text-decoration: underline;
+}
+
+.event-date {
+  margin: 0 auto;
+  display: block;
+}
