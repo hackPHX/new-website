@@ -14,10 +14,12 @@ body {
 
 .logo {
   font-family: 'Fugaz One', cursive;
-  font-size: 60px;
+  font-size: 7em;
   color: #B9B9B9;
-  text-shadow: -1px 0 #505050, 0 1px #505050, 1px 0 #505050, 0 -1px #505050;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   height: 100px;
+  line-height: 100px;
+  margin-top: 0px;
 }
 
 /* http://lostandtaken.com/blog/2011/6/2/6-high-quality-seamless-paper-textures.html */

@@ -9,7 +9,7 @@ html {
 }
 
 html.desk {
-  background-image: url('../img/desk.jpg');
+  background-image: url('../img/background2.jpg');
 }
 
 body {
@@ -18,10 +18,27 @@ body {
 
 .logo {
   font-family: 'Fugaz One', cursive;
-  font-size: 60px;
+  font-size: 7em;
   color: #3FA4A8;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   height: 100px;
+  line-height: 100px;
+  margin-top: 0px;
+}
+
+.socials {
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+i {
+	min-width: 27px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+.socials a{
+	color:#FFFFFF;
 }
 
 /* http://lostandtaken.com/blog/2011/6/2/6-high-quality-seamless-paper-textures.html */
