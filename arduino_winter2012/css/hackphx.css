@@ -21,8 +21,6 @@ body {
 }
 
 
-
-
 .logo {
   font-family: 'Fugaz One', cursive;
   font-size: 7em;
@@ -47,6 +45,12 @@ body {
 	  font-size: 4em;
 	}
 }
+
+.logo-container a:hover {
+	text-decoration:none;
+	color:white;
+}
+
 
 
 .socials {
