@@ -20,6 +20,9 @@ body {
 	text-align: right;	
 }
 
+
+
+
 .logo {
   font-family: 'Fugaz One', cursive;
   font-size: 7em;
@@ -30,6 +33,21 @@ body {
   margin-top: 0px;
   display:inline-block;
 }
+
+
+@media (max-width: 640px) {
+	.logo{
+	  font-size: 5em;
+	}
+}
+
+
+@media (max-width: 480px) {
+	.logo{
+	  font-size: 4em;
+	}
+}
+
 
 .socials {
 	font-size: 25px;
@@ -50,7 +68,7 @@ i {
 	color:#FFFFFF;
 }
 
-/* http://lostandtaken.com/blog/2011/6/2/6-high-quality-seamless-paper-textures.html */
+
 .main-content {
   background: url("../img/arduino-center.png") top left repeat-y;
   background-size: 100%;

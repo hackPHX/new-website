@@ -28,6 +28,21 @@ body {
   display:inline-block;
 }
 
+
+@media (max-width: 640px) {
+	.logo{
+	  font-size: 5em;
+	}
+}
+
+
+@media (max-width: 480px) {
+	.logo{
+	  font-size: 4em;
+	}
+}
+
+
 .socials {
 	font-size: 25px;
 	margin-top: 10px;
