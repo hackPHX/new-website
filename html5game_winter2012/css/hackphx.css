@@ -12,6 +12,11 @@ body {
   background-color: transparent; /*bootstrap has this as white*/
 }
 
+
+.logo-container{
+	text-align: right;	
+}
+
 .logo {
   font-family: 'Fugaz One', cursive;
   font-size: 7em;
@@ -20,7 +25,22 @@ body {
   height: 100px;
   line-height: 100px;
   margin-top: 0px;
+  display:inline-block;
 }
+
+.socials {
+	font-size: 25px;
+	margin-top: 10px;
+	margin-left: 20px;
+    display:inline-block;
+}
+
+i {
+	min-width: 27px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
 
 /* http://lostandtaken.com/blog/2011/6/2/6-high-quality-seamless-paper-textures.html */
 .main-content {
