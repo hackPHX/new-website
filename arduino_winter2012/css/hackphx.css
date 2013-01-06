@@ -46,6 +46,12 @@ body {
 	}
 }
 
+@media (max-width: 320px) {
+	.logo{
+	  font-size: 3em;
+	}
+}
+
 .logo-container a:hover {
 	text-decoration:none;
 	color:white;
