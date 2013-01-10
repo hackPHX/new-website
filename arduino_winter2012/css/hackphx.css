@@ -23,7 +23,7 @@ body {
 
 .logo {
   font-family: 'Fugaz One', cursive;
-  font-size: 7em;
+  font-size: 98px;
   color: #3FA4A8;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   height: 100px;
@@ -35,20 +35,20 @@ body {
 
 @media (max-width: 640px) {
 	.logo{
-	  font-size: 5em;
+	  font-size: 70px;
 	}
 }
 
 
 @media (max-width: 480px) {
 	.logo{
-	  font-size: 4em;
+	  font-size: 55px;
 	}
 }
 
 @media (max-width: 320px) {
 	.logo{
-	  font-size: 3em;
+	  font-size: 40px;
 	}
 }
 
