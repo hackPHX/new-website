@@ -23,7 +23,7 @@ body {
 
 .logo {
   font-family: 'Fugaz One', cursive;
-  font-size: 98px;
+  font-size: 7em;
   color: #3FA4A8;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   height: 100px;
@@ -35,20 +35,20 @@ body {
 
 @media (max-width: 640px) {
 	.logo{
-	  font-size: 70px;
+	  font-size: 5em;
 	}
 }
 
 
 @media (max-width: 480px) {
 	.logo{
-	  font-size: 55px;
+	  font-size: 4em;
 	}
 }
 
 @media (max-width: 320px) {
 	.logo{
-	  font-size: 40px;
+	  font-size: 3em;
 	}
 }
 
@@ -148,4 +148,13 @@ i {
 /* Extra Styles */
 .arduino-chrome {
   width: 100%;
+}
+
+.address{
+	text-align:center;
+}
+
+.centered-image{
+	display:block;
+	margin:0 auto;
 }
