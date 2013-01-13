@@ -99,6 +99,11 @@ i {
   padding-right: 25px;
 }
 
+.signup {
+	width: 250px;
+    margin: 10px auto;
+}
+
 .sidebar-content {
   background: rgba(255, 255, 255, 0.5);
   padding-left: 10px;
