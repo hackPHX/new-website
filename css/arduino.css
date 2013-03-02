@@ -39,7 +39,7 @@
 .live {
 	font-size:30px;
 	color: white;
-  	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 	text-align:center;
 	background-color: black;
 	padding-top: 10px;
